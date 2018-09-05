@@ -1,0 +1,16 @@
+    <app-menu *ngIf="isLogged"></app-menu>
+    <div class="container">
+        <router-outlet></router-outlet>
+        <footer *ngIf="isLogged" class="pt-4 my-md-5 pt-md-5 border-top">
+          <div class="row">
+            <div class="col-12 col-md">
+              <img class="mb-2" src="assets/img/logo.png" alt="" width="24" height="24">
+              <small class="d-block mb-3 text-muted">&copy; Nataniel Paiva 2018</small>
+            </div>
+          </div>
+        </footer>
+      </div>
+  
+  
+     
+
