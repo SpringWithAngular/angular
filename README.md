@@ -1,4 +1,4 @@
-# Angular 6 Curso com Nataniel Paiva
+# Angular 6 com Nataniel Paiva
 
 Grupo no Telegram
 ---
